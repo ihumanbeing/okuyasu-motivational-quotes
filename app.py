@@ -19,7 +19,20 @@ quotes = [
     "It is far better to be alone, than to be in bad company.",
     "Keep your face always toward the sunshine - and shadows will fall behind you.",
     "If opportunity doesn't knock, build a door.",
-    "The secret of getting ahead is getting started."
+    "The secret of getting ahead is getting started.",
+    "Your limitation—it’s only your imagination.",
+    "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "That which does not kill us makes us stronger.",
+    "Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.",
+    "We must not allow other people’s limited perceptions to define us.",
+    "Do what you can, with what you have, where you are.",
+    "Be yourself; everyone else is already taken.",
+    "If you cannot do great things, do small things in a great way.",
+    "Always forgive your enemies; nothing annoys them so much.",
+    "The only true wisdom is knowing that you know nothing.",
+    "A man who views the world the same at 50 as he did at 20 has wasted 30 years of his life.",
+    "It takes a great deal of courage to stand up to your enemies, but even more to stand up to your friends.",
+    
 
 ]
 
